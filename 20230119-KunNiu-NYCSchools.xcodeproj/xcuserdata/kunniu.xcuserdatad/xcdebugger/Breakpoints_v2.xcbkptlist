@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8303A603-3D61-401A-B858-E5039A8F5C97"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F06C623B-B670-4FCF-9EC8-A02008505D93"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230119-KunNiu-NYCSchools/ViewModel/SchoolViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "fetchSat(urlString:dbn:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "700830CE-63A0-42C5-8DD3-9AE568C248E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230119-KunNiu-NYCSchools/View/SchoolAdditionalInfo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17FD48B3-878E-467E-A610-201A667C352E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230119-KunNiu-NYCSchools/ViewModel/SchoolViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "fetchSat(urlString:dbn:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B013BAD4-0FE3-4A0A-A32C-2C26D1E69E35"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230119-KunNiu-NYCSchools/Repository/SchoolRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "getAdditionalSchoolDetails(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "001035CF-341E-4A95-8A25-22E22FAFE6C8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230119-KunNiu-NYCSchools/Repository/SchoolRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getAdditionalSchoolDetails(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "001035CF-341E-4A95-8A25-22E22FAFE6C8 - 3e8298d75e97e14d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for _0230119_KunNiu_NYCSchools.SchoolRepositoryImpl.getAdditionalSchoolDetails(for: Foundation.URL) async throws -&gt; _0230119_KunNiu_NYCSchools.SchoolAdditionlDetails"
+                  moduleName = "20230119-KunNiu-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunniu/Desktop/XCodeProj/20230119-KunNiu-NYCSchools%202/20230119-KunNiu-NYCSchools/Repository/SchoolRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "664">
+               </Location>
+               <Location
+                  uuid = "001035CF-341E-4A95-8A25-22E22FAFE6C8 - 99e5f9430ae6414c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for _0230119_KunNiu_NYCSchools.SchoolRepositoryImpl.getAdditionalSchoolDetails(for: Foundation.URL) async throws -&gt; _0230119_KunNiu_NYCSchools.SchoolAdditionlDetails"
+                  moduleName = "20230119-KunNiu-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunniu/Desktop/XCodeProj/20230119-KunNiu-NYCSchools%202/20230119-KunNiu-NYCSchools/Repository/SchoolRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "734745FE-61A1-4061-849B-85841B0F5093"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230119-KunNiu-NYCSchools/Repository/SchoolRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "getAdditionalSchoolDetails(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A18A3698-C3D7-42EC-892F-3656D7C8E01D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230119-KunNiu-NYCSchools/Repository/SchoolRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getAdditionalSchoolDetails(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A18A3698-C3D7-42EC-892F-3656D7C8E01D - e043ddffb774a0e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for _0230119_KunNiu_NYCSchools.SchoolRepositoryImpl.getAdditionalSchoolDetails(for: Foundation.URL) async throws -&gt; _0230119_KunNiu_NYCSchools.SchoolAdditionlDetails"
+                  moduleName = "20230119-KunNiu-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunniu/Desktop/XCodeProj/20230119-KunNiu-NYCSchools%202/20230119-KunNiu-NYCSchools/Repository/SchoolRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "A18A3698-C3D7-42EC-892F-3656D7C8E01D - 4aff89efd2c6e90d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for _0230119_KunNiu_NYCSchools.SchoolRepositoryImpl.getAdditionalSchoolDetails(for: Foundation.URL) async throws -&gt; _0230119_KunNiu_NYCSchools.SchoolAdditionlDetails"
+                  moduleName = "20230119-KunNiu-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunniu/Desktop/XCodeProj/20230119-KunNiu-NYCSchools%202/20230119-KunNiu-NYCSchools/Repository/SchoolRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "A18A3698-C3D7-42EC-892F-3656D7C8E01D - 3e8298d75e97e0e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for _0230119_KunNiu_NYCSchools.SchoolRepositoryImpl.getAdditionalSchoolDetails(for: Foundation.URL) async throws -&gt; _0230119_KunNiu_NYCSchools.SchoolAdditionlDetails"
+                  moduleName = "20230119-KunNiu-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunniu/Desktop/XCodeProj/20230119-KunNiu-NYCSchools%202/20230119-KunNiu-NYCSchools/Repository/SchoolRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "A18A3698-C3D7-42EC-892F-3656D7C8E01D - 99e5f9430ae640e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for _0230119_KunNiu_NYCSchools.SchoolRepositoryImpl.getAdditionalSchoolDetails(for: Foundation.URL) async throws -&gt; _0230119_KunNiu_NYCSchools.SchoolAdditionlDetails"
+                  moduleName = "20230119-KunNiu-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunniu/Desktop/XCodeProj/20230119-KunNiu-NYCSchools%202/20230119-KunNiu-NYCSchools/Repository/SchoolRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D3C2AC7-53B8-4E81-AA87-F57217A488C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230119-KunNiu-NYCSchools/Repository/SchoolRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "getAdditionalSchoolDetails(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7D3C2AC7-53B8-4E81-AA87-F57217A488C9 - 3e8298d75e97e0a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for _0230119_KunNiu_NYCSchools.SchoolRepositoryImpl.getAdditionalSchoolDetails(for: Foundation.URL) async throws -&gt; _0230119_KunNiu_NYCSchools.SchoolAdditionlDetails"
+                  moduleName = "20230119-KunNiu-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunniu/Desktop/XCodeProj/20230119-KunNiu-NYCSchools%202/20230119-KunNiu-NYCSchools/Repository/SchoolRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "328">
+               </Location>
+               <Location
+                  uuid = "7D3C2AC7-53B8-4E81-AA87-F57217A488C9 - 3e8298d75e97e0a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for _0230119_KunNiu_NYCSchools.SchoolRepositoryImpl.getAdditionalSchoolDetails(for: Foundation.URL) async throws -&gt; _0230119_KunNiu_NYCSchools.SchoolAdditionlDetails"
+                  moduleName = "20230119-KunNiu-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunniu/Desktop/XCodeProj/20230119-KunNiu-NYCSchools%202/20230119-KunNiu-NYCSchools/Repository/SchoolRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "500">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A67B7F68-4C02-42FC-9CB1-3010DA45890E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230119-KunNiu-NYCSchools/ViewModel/SchoolViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "fetchSat(urlString:dbn:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A67B7F68-4C02-42FC-9CB1-3010DA45890E - dc15795344312b31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in _0230119_KunNiu_NYCSchools.SchoolViewModel.fetchSat(urlString: Swift.String, schoolName: Swift.String) -&gt; ()"
+                  moduleName = "20230119-KunNiu-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunniu/Desktop/XCodeProj/20230119-KunNiu-NYCSchools%202/20230119-KunNiu-NYCSchools/ViewModel/SchoolViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "A67B7F68-4C02-42FC-9CB1-3010DA45890E - d0881c173e8a6699"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor @Sendable () -&gt; () in closure #1 @Sendable () async -&gt; () in _0230119_KunNiu_NYCSchools.SchoolViewModel.fetchSat(urlString: Swift.String, schoolName: Swift.String) -&gt; ()"
+                  moduleName = "20230119-KunNiu-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunniu/Desktop/XCodeProj/20230119-KunNiu-NYCSchools%202/20230119-KunNiu-NYCSchools/ViewModel/SchoolViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6154AD9E-BC45-462D-B6F8-F53BAAA60943"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230119-KunNiu-NYCSchools/ViewModel/SchoolViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "fetchSat(urlString:dbn:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F0CD8C8-BE79-4E2C-A7F4-A9B98C56C3F9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230119-KunNiu-NYCSchools/View/SchoolAdditionalInfo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FEDB9DD1-82B4-4165-A4C6-E51300170AAB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230119-KunNiu-NYCSchools/View/SchoolAdditionalInfo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26021633-068D-44B5-A808-0B3ED31AF08B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230119-KunNiu-NYCSchools/View/SchoolAdditionalInfo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D3F51E18-09B7-4801-9094-862B914EE758"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230119-KunNiu-NYCSchools/ViewModel/SchoolViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "fetchSchools(urlStr:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67B7832F-090E-4DB3-85A8-9EB62A485621"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230119-KunNiu-NYCSchoolsTests/SchoolViewModelTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "SchoolViewModelTest"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "67B7832F-090E-4DB3-85A8-9EB62A485621 - e22d65da9804a665"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230119_KunNiu_NYCSchoolsTests.SchoolViewModelTest.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; _0230119_KunNiu_NYCSchoolsTests.SchoolViewModelTest"
+                  moduleName = "20230119-KunNiu-NYCSchoolsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunniu/Desktop/XCodeProj/20230119-KunNiu-NYCSchools%202/20230119-KunNiu-NYCSchoolsTests/SchoolViewModelTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "67B7832F-090E-4DB3-85A8-9EB62A485621 - 7ca9971e0cb73ae6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230119_KunNiu_NYCSchoolsTests.SchoolViewModelTest.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; _0230119_KunNiu_NYCSchoolsTests.SchoolViewModelTest"
+                  moduleName = "20230119-KunNiu-NYCSchoolsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunniu/Desktop/XCodeProj/20230119-KunNiu-NYCSchools%202/20230119-KunNiu-NYCSchoolsTests/SchoolViewModelTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "67B7832F-090E-4DB3-85A8-9EB62A485621 - c6912f579b96599a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230119_KunNiu_NYCSchoolsTests.SchoolViewModelTest.__allocating_init(selector: ObjectiveC.Selector) -&gt; _0230119_KunNiu_NYCSchoolsTests.SchoolViewModelTest"
+                  moduleName = "20230119-KunNiu-NYCSchoolsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunniu/Desktop/XCodeProj/20230119-KunNiu-NYCSchools%202/20230119-KunNiu-NYCSchoolsTests/SchoolViewModelTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "67B7832F-090E-4DB3-85A8-9EB62A485621 - c5702ec62c1f50c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230119_KunNiu_NYCSchoolsTests.SchoolViewModelTest.init(selector: ObjectiveC.Selector) -&gt; _0230119_KunNiu_NYCSchoolsTests.SchoolViewModelTest"
+                  moduleName = "20230119-KunNiu-NYCSchoolsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunniu/Desktop/XCodeProj/20230119-KunNiu-NYCSchools%202/20230119-KunNiu-NYCSchoolsTests/SchoolViewModelTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "67B7832F-090E-4DB3-85A8-9EB62A485621 - 575fd82cb99dbd02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230119_KunNiu_NYCSchoolsTests.SchoolViewModelTest.__allocating_init() -&gt; _0230119_KunNiu_NYCSchoolsTests.SchoolViewModelTest"
+                  moduleName = "20230119-KunNiu-NYCSchoolsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunniu/Desktop/XCodeProj/20230119-KunNiu-NYCSchools%202/20230119-KunNiu-NYCSchoolsTests/SchoolViewModelTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "67B7832F-090E-4DB3-85A8-9EB62A485621 - f11bed19fdc0559c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230119_KunNiu_NYCSchoolsTests.SchoolViewModelTest.init() -&gt; _0230119_KunNiu_NYCSchoolsTests.SchoolViewModelTest"
+                  moduleName = "20230119-KunNiu-NYCSchoolsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunniu/Desktop/XCodeProj/20230119-KunNiu-NYCSchools%202/20230119-KunNiu-NYCSchoolsTests/SchoolViewModelTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "67B7832F-090E-4DB3-85A8-9EB62A485621 - 6ceb1a00cb0a4dd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230119_KunNiu_NYCSchoolsTests.SchoolViewModelTest.__deallocating_deinit"
+                  moduleName = "20230119-KunNiu-NYCSchoolsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunniu/Desktop/XCodeProj/20230119-KunNiu-NYCSchools%202/20230119-KunNiu-NYCSchoolsTests/SchoolViewModelTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9067F7FE-DF2B-44DA-88F0-990873C04C65"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230119-KunNiu-NYCSchoolsTests/SchoolViewModelTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "tearDownWithError()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0544908-23E5-4777-8355-958FDA657D9E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230119-KunNiu-NYCSchoolsTests/SchoolViewModelTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "testFetchSchollSat_WhenSchoolDoesNotExist()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
